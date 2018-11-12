@@ -48,3 +48,4 @@
 
  # TODO
  	## Write about auto-trader project, Portfolio management using Reinforcement Learning
+	## Also add CMU capstone and Patent 
